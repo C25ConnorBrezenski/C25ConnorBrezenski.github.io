@@ -1,0 +1,95 @@
+{
+  "posts": [
+    {
+      "username": "Defence of Ukraine",
+      "userAvatar": "images/avatar1.jpg",
+      "isVerified": true,
+      "type": "image",
+      "media": "images/post1.jpg",
+      "likes": 155232,
+      "caption": "MiG-29 of the Air Force of the Armed Forces destroys the 'unparalleled' Su-35 of the Russian occupiers"
+    },
+    {
+      "username": "barstool_af",
+      "userAvatar": "images/avatar2.jpg",
+      "isVerified": false,
+      "type": "image",
+      "media": "images/post2.jpg",
+      "likes": 4352,
+      "caption": "We will not lose to Navy🚰⚓️"
+    },
+    {
+      "username": "barstoolu",
+      "userAvatar": "images/avatar3.jpg",
+      "isVerified": false,
+      "type": "image",
+      "media": "images/post3.jpg",
+      "likes": 150,
+      "caption": "Winners of the Weekend 🤝"
+    },
+    {
+      "username": "usafacommandant",
+      "userAvatar": "images/avatar4.jpg",
+      "isVerified": false,
+      "type": "image",
+      "media": "images/post4.jpg",
+      "likes": 200,
+      "caption": "AFA 2024! Excited to have joined so many other Airmen and Guardians at the AFA Air, Space & Cyber Conference! I’m also excited that we brought cadet leaders with us--to learn and engage in discussions about the future of our Air and Space Force! #AFA2024 #Leadership #WCIOS!"
+    },
+    {
+      "username": "zoo.jodel",
+      "userAvatar": "images/avatar5.jpg",
+      "isVerified": false,
+      "type": "image",
+      "media": "images/post5.jpg",
+      "likes": 300,
+      "caption": "yeah Marx ain't giving us back civvies ever..."
+    },
+    {
+      "username": "modernnoteriety",
+      "userAvatar": "images/avatar6.jpg",
+      "isVerified": false,
+      "type": "image",
+      "media": "images/post6.jpg",
+      "likes": 25332,
+      "caption": " most countries walked out of netanyahu's speech at the UN earlier today in protest, leaving him to talk at an almost empty hall."
+    },
+    {
+      "username": "foodie_fun",
+      "userAvatar": "images/avatar7.jpg",
+      "isVerified": false,
+      "type": "image",
+      "media": "images/post7.jpg",
+      "likes": 95,
+      "caption": "Fresh ingredients make the best meals 🍅🥑🍋 #cooking #healthyeating #foodie"
+    },
+    {
+      "username": "roadtrip_crew",
+      "userAvatar": "images/avatar8.jpg",
+      "isVerified": false,
+      "type": "image",
+      "media": "images/post8.jpg",
+      "likes": 220,
+      "caption": "Weekend getaway with the best crew 🚗🌄 #roadtrip #friends #explore"
+    },
+    {
+      "username": "bookworm_beth",
+      "userAvatar": "images/avatar9.jpg",
+      "isVerified": false,
+      "type": "image",
+      "media": "images/post9.jpg",
+      "likes": 130,
+      "caption": "Lost in a good book 📚✨ #reading #relaxation #bookworm"
+    },
+    {
+      "username": "yoga_life",
+      "userAvatar": "images/avatar10.jpg",
+      "isVerified": false,
+      "type": "image",
+      "media": "images/post10.jpg",
+      "likes": 160,
+      "caption": "Starting the day with yoga and meditation 🧘‍♀️🌿 #wellness #mindfulness #selfcare"
+    }
+  
+  ]
+}

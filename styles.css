@@ -1,0 +1,125 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+}
+
+/* Header */
+header {
+  background-color: #fff;
+  border-bottom: 1px solid #dbdbdb;
+  padding: 10px 0;
+  position: sticky;
+  top: 0;
+}
+
+.header-container {
+  max-width: 975px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  height: 85px;
+}
+
+/* Feed */
+#feed {
+  max-width: 614px;
+  margin: 20px auto;
+}
+
+/* Post */
+.post {
+  background-color: #fff;
+  border: 1px solid #dbdbdb;
+  margin-bottom: 20px;
+}
+
+.post-header,
+.post-footer {
+  padding: 15px;
+}
+
+.post-user {
+  display: flex;
+  align-items: center;
+}
+
+.post-user img {
+  border-radius: 50%;
+  height: 32px;
+  width: 32px;
+  margin-right: 10px;
+}
+
+/* Username Styling */
+.username {
+  font-weight: bold;
+  white-space: nowrap;
+  /* overflow: hidden; */
+  /* text-overflow: ellipsis; */
+}
+
+
+.post-media img,
+.post-media video {
+  width: 100%;
+}
+
+.actions {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.action-icon {
+  height: 24px;
+  width: 24px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.likes {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.caption {
+  display: flex;
+}
+
+.caption .username {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+/* Optional: Add any additional styling you prefer */
+
+/* Username Container */
+.username-container {
+  display: flex;
+  align-items: center;
+}
+
+.username-container .username {
+  margin-right: 5px;
+}
+
+/* Verified Icon */
+.post-user .username-container .verified-icon {
+  width: 16px;
+  height: 16px;
+}
+
+/* Adjust .post-user if necessary */
+.post-user {
+  display: flex;
+  align-items: center;
+}
